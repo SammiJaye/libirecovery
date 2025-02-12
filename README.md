@@ -59,7 +59,7 @@ section of the README on how to build it. Note that some platforms might have it
   	libusb-1.0-0-dev
   ```
 
-  In case libimobiledevice-glue-dev is not available, you can manually build and install it. See note above.
+  In case  libimobiledevice-glue-dev is not available, you can manually build and install it. See note above.
 
 #### macOS
 
